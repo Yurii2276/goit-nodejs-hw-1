@@ -1,0 +1,32 @@
+{
+  "name": "goit-nodejs-hw-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurii2276/goit-nodejs-hw-1.git"
+  },
+  "keywords": [
+    "\"nodejs\"",
+    "\"homework\""
+  ],
+  "author": "Яковчук Юрій",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yurii2276/goit-nodejs-hw-1/issues"
+  },
+  "homepage": "https://github.com/Yurii2276/goit-nodejs-hw-1#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "uuid": "^9.0.1"
+  }
+}
