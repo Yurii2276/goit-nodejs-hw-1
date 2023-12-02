@@ -1,5 +1,6 @@
 
 const { Command } = require('commander');
+
 const contactsOperations = require('./contacts');
 
 const program = new Command();
